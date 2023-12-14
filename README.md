@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Primul proiect idividual
+Primul proiect individual
